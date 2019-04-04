@@ -6,7 +6,7 @@ tags:
     - "writing"
     - 'writing'
 status: 'public'
-categories : [lessons, beginner]
+categories : Lessons
 ---
 ###  **李笑来关于如何写作**
 我现在的状态就有点像猴子下山，看到这个也想要，看到那个也想要，可是时间有限，我能够要的东西很少。
