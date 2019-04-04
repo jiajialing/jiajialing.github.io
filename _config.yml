@@ -4,10 +4,10 @@
 baseurl:
 url: https://jiajialing.github.io
 date_format: "ordinal"
-title: Sauchye
+title: jiajialing
 subtitle: "Pain is inevitable Suffering is optional"
-description: "Sauchye's Blog"
-keywords: sauchye
+description: "jiajialing's Blog"
+keywords: jiajialing
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -95,14 +95,14 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: sjiajialing
+    owner: jiajialing
     repo: blog-comments
     oauth:
         client_id: 78dbc659f1b91b8a795b
         client_secret: 61e88f9f2a6a19bd7670983924cccb290311f115
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: sauchye
+    owner: jiajialing
     repo: blog-comments
     clientID: 78dbc659f1b91b8a795b
     clientSecret: 61e88f9f2a6a19bd7670983924cccb290311f115
