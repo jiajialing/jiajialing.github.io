@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 处理Xcode出现多个模拟器
-categories: Xcode
+categories: Lessons
 description: 处理Xcode出现多个模拟器
 keywords: Xcode、simulator
 ---
