@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://sauchye.github.io
+url: https://jiajialing.github.io
 date_format: "ordinal"
 title: Sauchye
 subtitle: "Pain is inevitable Suffering is optional"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Sauchye
-organization: 
-organization_url: 
-github_username: Sauchye
-location: Shenzhen
-email: sauchye@qq.com
+author: jiajialing
+organization:
+organization_url:
+github_username: jiajialing
+location: ChangShang
+email: ruplaying@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: sauchye/sauchye.github.io
+repository: jiajialing/jiajialing.github.io
 
 # ---------------- #
 #      Comments    #
@@ -92,10 +92,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: sauchye
+    owner: sjiajialing
     repo: blog-comments
     oauth:
         client_id: 78dbc659f1b91b8a795b
