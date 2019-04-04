@@ -1,7 +1,7 @@
----
+﻿---
 date: 2019-4-4 14:04:01
 layout: 'post'
-title: 'Blogging Like a Hacker'
+title: '李笑来写作'
 tags:
     - "writing"
     - 'writing'
@@ -16,6 +16,7 @@ categories : [lessons, beginner]
 想要得到某些东西，必然就要放弃，某些东西，你想要什么，你有什么，你最不能放弃什么？你最不能放弃的应该就是你最想要的。
 
 - - - - -
+
 > **MarkEditor 不仅是更易于输入表格，还能自动生成线图、柱状图、饼图……**
 
 ## MarkEditor风格的表格语法
