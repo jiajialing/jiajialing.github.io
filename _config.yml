@@ -123,3 +123,5 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id: UA-135026863-1
+
+theme: jekyll-theme-minimal
