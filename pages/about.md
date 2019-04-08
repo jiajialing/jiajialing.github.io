@@ -1,17 +1,17 @@
 ---
 layout: page
 title: About
-description: About Sauchye
-keywords: sauchye
+description: About me
+keywords: 何乐
 comments: true
-menu: 关于
+menu: 关于我
 permalink: /about/
 ---
 
 嗨！你好呀，我是何乐(@jiajialing)
 
 ## 自我介绍
-- 【姓名】[**何乐**](https://jiajialing.github.io/2019/04/08/learn-writing-opencamp/)**
+- 【姓名】[何乐](https://jiajialing.github.io/2019/04/08/learn-writing-opencamp/)
 
 - 【坐标】湖南-长沙  
 
@@ -50,7 +50,7 @@ permalink: /about/
   - 1.三个百天计划（写作-英语-运营）
   - 2.30个主题阅读输出30+小主题论文 已经完成3个了，持续推进中
   - 3.作为3场线下或者线上大于50人活动的发起人
-  - ![My WeChat](/images/about-me/wechat.jpg)
+  - ![My_WeChat](/images/about-me/wechat.jpg)
 ## 联系
 
 {% for website in site.data.social %}
