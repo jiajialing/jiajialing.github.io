@@ -8,8 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-嗨！你好呀，我是何乐 (@jiajialing)，现居长沙，爱折腾的人，正在努力前行。
-
+嗨！你好呀，我是[**何乐**](https://jiajialing.github.io/2019/04/08/learn-writing-opencamp/)(@jiajialing)，现居长沙，爱折腾的人，正在努力前行。
 ## 联系
 
 {% for website in site.data.social %}
