@@ -120,5 +120,5 @@ keywords: 叮当姐写作训练营
 #### changelog
 > 2019年4月8日14:29:28 何乐编辑
 >- 参考
- - [叮当姐发的模板](#开营仪式)
- - [白一喵:如何把最简单的「自我介绍」，打造成最强的流量抓手？](https://mp.weixin.qq.com/s/8ldDtcuzIvFH5Fne5jMHUw)
+  - [叮当姐发的模板](#开营仪式)
+  - [白一喵:如何把最简单的「自我介绍」，打造成最强的流量抓手？](https://mp.weixin.qq.com/s/8ldDtcuzIvFH5Fne5jMHUw)
