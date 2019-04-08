@@ -90,7 +90,7 @@ keywords: 叮当姐写作训练营
   - 3.推荐优秀又有趣的电影和书籍
 
   - 4.搭建网站，付费的网站和免费的网站（比如WordPress或zblog  bitcron github+jekyll建站）
-   - wordpress：类似于[我做的站www.runplay.top](www.runplay.top)
+   - wordpress：类似于[我做的站www.runplay.top](www.runplay.top/)
    - github+jeykll: [我的个人站:jiajialing.github.io](https://jiajialing.github.io)
 
 
