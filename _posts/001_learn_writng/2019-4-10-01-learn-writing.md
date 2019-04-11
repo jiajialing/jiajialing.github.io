@@ -44,3 +44,25 @@ keywords: 叮当姐写作训练营
 
 
 #### 根据游戏化设计自己的路径
+mermaid
+graph lR
+
+  a[a] --> b[b]
+
+  st=>start: Start
+  op=>operation: Your Operation
+  cond=>condition: Yes or No?
+  e=>end
+  st->op->cond
+  cond(yes)->e
+  cond(no)->op
+
+  ```flow
+  st=>start: Start
+  op=>operation: Your Operation
+  cond=>condition: Yes or No?
+  e=>end
+  st->op->cond
+  cond(yes)->e
+  cond(no)->op
+```
