@@ -76,12 +76,3 @@ keywords: 叮当姐写作训练营
 
 
 #### 根据游戏化设计自己的路径
-
-graph TB
-Characters-->Token
-Token-->Nodes
-Nodes-->Dom
-
-
-
-start=>start: start operation1=>operation: operation1 isSuccess=>condition: success? operation2=>operation: operation2 operation3=>operation: operation3 operation4=>operation: operation4 end=>end: 结束 start->operation1->isSuccess isSuccess(yes)->operation2->end isSuccess(no)->operation3->operation4(right)->operation1
