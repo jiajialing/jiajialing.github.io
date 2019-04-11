@@ -5,6 +5,9 @@ categories: [和叮当姐写作]
 description: 写作是复利技能，所以必须要花时间学会
 keywords: 叮当姐写作训练营
 ---
+### 课表
+![维度先锋写作课表](/images/learn-writing/ke-biao.jpg)
+
 ### 关于学习写作动机的问题
 
 **这个用一个PORT模型就可以解决**
