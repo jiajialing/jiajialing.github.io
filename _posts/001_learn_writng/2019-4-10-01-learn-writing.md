@@ -18,24 +18,25 @@ keywords: 叮当姐写作训练营
 >
 >九层之台，起于累土，千里之行，始于足下，慢慢来，持续做，比较快。
 
-|      PORT模型     |
-|:---------------  |
+
+|    PORT模型  | **价值意义**  |
+|:-------:|   :-------      |
 |P：我的目的是什么？|
-|     目的1|
-|     目的2|
-|     目的2|
-|                  |
+|目的1 打造个人影响力|
+|目的2 开始建立个人品牌|
+|目的3 更好的自我思考|
+|    **目标和路径** |
 |O：我的目标是什么？|
 |                  |
 |                  |
 |                  |
-|                  |
-|R：我的结果是什么?  |
-|                  |
-|                  |
+|                  |      
+|R：我的结果是什么? 我的关键结果 |
 |                  |
 |                  |
-|T：我的任务是什么？|
+|                  |
+|                  |
+|T：我的任务是什么？我要完成什么任务|
 |                  |
 |                  |
 |                  |
@@ -44,25 +45,3 @@ keywords: 叮当姐写作训练营
 
 
 #### 根据游戏化设计自己的路径
-mermaid
-graph lR
-
-  a[a] --> b[b]
-
-  st=>start: Start
-  op=>operation: Your Operation
-  cond=>condition: Yes or No?
-  e=>end
-  st->op->cond
-  cond(yes)->e
-  cond(no)->op
-
-  ```flow
-  st=>start: Start
-  op=>operation: Your Operation
-  cond=>condition: Yes or No?
-  e=>end
-  st->op->cond
-  cond(yes)->e
-  cond(no)->op
-```
