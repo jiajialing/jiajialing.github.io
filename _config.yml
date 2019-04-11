@@ -5,7 +5,8 @@ baseurl:
 url: https://jiajialing.github.io
 date_format: "ordinal"
 title: jiajialing
-subtitle: "Pain is inevitable Suffering is optional"
+subtitle: "九层之台，起于累土 千里之行，始于足下"
+#"Pain is inevitable Suffering is optional"
 description: "jiajialing's Blog"
 keywords: jiajialing
 timezone: Asia/Shanghai
