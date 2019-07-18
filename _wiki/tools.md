@@ -193,8 +193,9 @@ hi现场
  -  跳跃互动：http://www.tioyo.com/
  -  一键互动：https://yjhd.newstartjx.com/
  -  凡科互动：http://hd.faisco.com/?_ta=2880
- - 
+
 活动如何发布
+
  - 活动行：http://www.huodongxing.com/
  - 互动吧：http://www.hdb.com/beijing
  - 活动数：http/://www.huodongshu.com/
@@ -203,27 +204,27 @@ hi现场
  - 百格活动：https://www.bagevent.com/
  - 活动酷：http://www.eventcoo.com/
  - 活动推广神器：http://www.huodongxing.com/
- - 
+
 增粉引流:
-千聊粉丝通：http://kaifang.qlchat.com/wechat/login.jsp
-进群宝
-爆汁
-媒想到
+ - 千聊粉丝通：http://kaifang.qlchat.com/wechat/login.jsp
+ - 进群宝
+ - 爆汁
+ - 媒想到
 投票：http://www.vote8.cn/
-数据收集：
-金数据
-麦客表单
-知识付费
-小鹅通：www.xiaoe-tech.com
-有赞
-微店
-群管理
-小U管家
-微友助手
-八爪鱼
-wetool
-紫豆助手
-鲸服务
+ - 数据收集：
+   - 金数据
+   - 麦客表单
+ - 知识付费
+   - 小鹅通：www.xiaoe-tech.com
+   - 有赞
+   - 微店
+- 群管理
+   - 小U管家
+   - 微友助手
+   - 八爪鱼
+   - wetool
+   - 紫豆助手
+   - 鲸服务
 
 ---
 
@@ -301,12 +302,18 @@ FORK
 裂变工具
 
  - 千聊-粉丝通：http://kaifang.qlchat.com/wechat/login.jsp
+  
  - 荔枝微课​-至尊宝：http://www.lizhiweike.com/
-​ - 一起学堂-邀请卡：http://www.17vsell.com/​
- - 建群宝：http://www.jianqunbao.com/​
- - 小U管家-群引：http://www.xiaouguanjia.com/​
- - 有赞-营销插件：https://www.youzan.com/market​
- - 小鹅通-分销员：https://www.xiaoe-tech.com/
+
+- 一起学堂-邀请卡：http://www.17vsell.com/  
+ - 建群宝：http://www.jianqunbao.com/​  
+ 
+- 小U管家-群引：http://www.xiaouguanjia.com/​  
+ 
+- 有赞-营销插件：https://www.youzan.com/market​  
+ 
+- 小鹅通-分销员：https://www.xiaoe-tech.com/  
+ 
  - 生成带统计的网址：http://6du.in/
  
 收趣APP：收集你感兴趣的
