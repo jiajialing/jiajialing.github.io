@@ -1,3 +1,12 @@
+---
+layout: post
+title: 工具大全
+categories: [工具大全]
+description: 搜集大量工具
+keywords: 工具大全,工具，运营工具
+---
+
+
 #### 工具大全
 
 ##### 最好用的win和mac软件list
