@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 工具大全
-categories: [工具大全]
+categories: 工具大全]
 description: 搜集大量工具
 keywords: 工具大全,工具，运营工具
 ---
@@ -10,72 +10,72 @@ keywords: 工具大全,工具，运营工具
 #### 工具大全
 
 ##### 最好用的win和mac软件list
-- win系统 https://love.appinn.com/
+-  win系统 https://love.appinn.com/
 
-- mac系统 https://wangchujiang.com/awesome-mac/index.zh.html
+-  mac系统 https://wangchujiang.com/awesome-mac/index.zh.html
 ##### 聚合热点，聚合全网热点，应有尽有：https://tophub.today/c/news
 
-☛ 百度指数（http://index.baidu.com/）
-☛ 微指数（http://data.weibo.com/index）
-☛ 微信搜索☛ 搜狗微信（http://weixin.sogou.com/）
-☛ 新榜（http://www.newrank.cn/）
-☛ 壹伴（https://yiban.io/hot_articles#sougou）
-☛ 新媒体管家（https://article.xmt.cn/）
-☛ 乐观号（http://mp.myleguan.com/）
+☛  百度指数（http://index.baidu.com/）
+☛  微指数（http://data.weibo.com/index）
+☛  微信搜索☛ 搜狗微信（http://weixin.sogou.com/）
+☛  新榜（http://www.newrank.cn/）
+☛  壹伴（https://yiban.io/hot_articles#sougou）
+☛  新媒体管家（https://article.xmt.cn/）
+☛  乐观号（http://mp.myleguan.com/）
 
 ##### 01 文字工具
-gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
+ gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
 
-文字特效工具：megaemoji.com/cn
-教程：http://mp.weixin.qq.com/s/GyQOvCh8F7JglRyBlsTwJA
-免费可商用字体：http://mp.weixin.qq.com/s/XMOMH6g4UCFJf-xCei7B0w
+ 文字特效工具：megaemoji.com/cn
+ 教程：http://mp.weixin.qq.com/s/GyQOvCh8F7JglRyBlsTwJA
+ 免费可商用字体：http://mp.weixin.qq.com/s/XMOMH6g4UCFJf-xCei7B0w
 
 文案库：http://mp.weixin.qq.com/s/rCAPkBfqZ2o0i6oB2h6AoA
  
- - 数英网：https://www.digitaling.com/
- - 梅花网：http://www.meihua.info/文案狗：http://www.wenangou.com4A
- - 广告提案网：http://www.4aquan.com/
- - 广告门：http://www.adquan.com/
- - 麦迪逊邦：http://www.madisonboom.com/
- - 简文网：http://picktxt.com/
- - 姑婆那些事儿：http://www.gupowang.com/
- - 网易云课堂：http://study.163.com/
- - 暖石：http://www.nuanshi100.com/
- - 馒头商学院：http://www.mtedu.com/
+ -  数英网：https://www.digitaling.com/
+ -  梅花网：http://www.meihua.info/文案狗：http://www.wenangou.com4A
+ -  广告提案网：http://www.4aquan.com/
+ -  广告门：http://www.adquan.com/
+ -  麦迪逊邦：http://www.madisonboom.com/
+ -  简文网：http://picktxt.com/
+ -  姑婆那些事儿：http://www.gupowang.com/
+ -  网易云课堂：http://study.163.com/
+ -  暖石：http://www.nuanshi100.com/
+ -  馒头商学院：http://www.mtedu.com/
  - 
-制作文字云：https://tagul.com
+ 制作文字云：https://tagul.com
 
 ---
 
 ##### 02 图片工具
 玩转gif
-录屏工具：录屏GifCam 下载Http://WwW.XP510.CoM
-好用的在线gif：http://www.soogif.com/
-美图秀秀：http://xiuxiu.web.meitu.com/
+ 录屏工具：录屏GifCam 下载Http://WwW.XP510.CoM
+ 好用的在线gif：http://www.soogif.com/
+ 美图秀秀：http://xiuxiu.web.meitu.com/
 插画
- - 01-涂鸦王国：http://www.poocg.com/
- - 02-EGOUZ：http://www.egouz.com/pics/vector/
- - 03-画易网：http://art.cgart.cn/
- - 04-花瓣-插画：http://huaban.com/favorite/illustration/
- - 05-Arting365插画：http://tu.arting365.com/category/41
- - 06-创意人插画：http://chuangyiren.cn/
- - 07-Chinese Posters：http://chineseposters.net/
- - 08-插画家园 ：http://www.13cg.com/
- - 09-Getty：http://www.gettyimages.co.uk/
- - 10-Fotosearch：http://www.fotosearch.com/
- - 11-The i spot：https://www.theispot.com
- - 12-Stockillustrations：http://www.stockillustrations.com/
+ -  01-涂鸦王国：http://www.poocg.com/
+ -  02-EGOUZ：http://www.egouz.com/pics/vector/
+ -  03-画易网：http://art.cgart.cn/
+ -  04-花瓣-插画：http://huaban.com/favorite/illustration/
+ -  05-Arting365插画：http://tu.arting365.com/category/41
+ -  06-创意人插画：http://chuangyiren.cn/
+ -  07-Chinese Posters：http://chineseposters.net/
+ -  08-插画家园 ：http://www.13cg.com/
+ -  09-Getty：http://www.gettyimages.co.uk/
+ -  10-Fotosearch：http://www.fotosearch.com/
+ -  11-The i spot：https://www.theispot.com
+ -  12-Stockillustrations：http://www.stockillustrations.com/
 
-词云图：教程：https://mp.weixin.qq.com/s/rqv2zI2TDnCsx9JFqY-mRQ
- - 1）BlueMC : http://www.bluemc.cn  
- - 2）清博：http://www.gsdata.cn/
- - 3）WordArt : https://wordart.com/
- - 4）Wordsift.org : https://wordsift.org/
- - 5）图痒（APP）
- - 6）美字（APP）​
+ 词云图：教程：https://mp.weixin.qq.com/s/rqv2zI2TDnCsx9JFqY-mRQ
+ -  1）BlueMC : http://www.bluemc.cn  
+ -  2）清博：http://www.gsdata.cn/
+ -  3）WordArt : https://wordart.com/
+ -  4）Wordsift.org : https://wordsift.org/
+ -  5）图痒（APP）
+ -  6）美字（APP）​
 
 
-抠图 https://burner.bonanza.com/
+ 抠图 https://burner.bonanza.com/
 拼图
  - 暴走漫画
  - shape collage
@@ -88,31 +88,31 @@ gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
 
 
 小图标素材
- - 01-iconfont：http://www.iconfont.cn/
- - 02-easyicon：http://www.easyicon.net
- - 03-iconmonstr：https://iconmonstr.com/
- - 04-iconfinder：https://www.iconfinder.com/
- - 05-Swifticons：https://www.swifticons.com/
- - 06-Icons8：https://icons8.com
- - 07-iconstore：https://iconstore.co/
- - 08-flat-icon-design：http://flat-icon-design.com/
- - 09-FLATICON：https://www.flaticon.com/
+ -  01-iconfont：http://www.iconfont.cn/
+ -  02-easyicon：http://www.easyicon.net
+ -  03-iconmonstr：https://iconmonstr.com/
+ -  04-iconfinder：https://www.iconfinder.com/
+ -  05-Swifticons：https://www.swifticons.com/
+ -  06-Icons8：https://icons8.com
+ -  07-iconstore：https://iconstore.co/
+ -  08-flat-icon-design：http://flat-icon-design.com/
+ -  09-FLATICON：https://www.flaticon.com/
 
 
-压缩图片 http://www.tuhaokuai.com/
-一键生成logo www.logaster.cn
+ 压缩图片 http://www.tuhaokuai.com/
+ 一键生成logo www.logaster.cn
 制作海报
- - “图怪兽”官网地址：https://818ps.com/
- - 创客贴官网地址：https://www.chuangkit.com/
- - 易图官网地址：http://www.egpic.cn/
- - Fotor海报官网：https://www.fotor.com.cn
- - 图帮主官网：https://www.tubangzhu.com/
+ -  “图怪兽”官网地址：https://818ps.com/
+ -  创客贴官网地址：https://www.chuangkit.com/
+ -  易图官网地址：http://www.egpic.cn/
+ -  Fotor海报官网：https://www.fotor.com.cn
+ -  图帮主官网：https://www.tubangzhu.com/
 
 
 一直装逼一直爽：biu装逼神器
-装逼大全：https://www.zhuangbi.info
-一键下载微信图片 http://www.kklxj.com/app/m/?from=groupmessage
-截图工具：https://www.snipaste.com/
+ 装逼大全：https://www.zhuangbi.info
+ 一键下载微信图片 http://www.kklxj.com/app/m/?from=groupmessage
+ 截图工具：https://www.snipaste.com/
 
 ---
 
@@ -120,10 +120,10 @@ gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
 一秒下载公众号音频 Fvd Downloader (360)浏览器插件
 一秒变声：应用市场搜：变声实验室
 一键音频导出文本：ios系统直接在App Store 搜索“录音机”
-群分享处理和导出：https://www.jianshu.com/p/f676f76be1c0
+ 群分享处理和导出：https://www.jianshu.com/p/f676f76be1c0
 ##### 04 视频工具
 录屏工具：
-EV录屏 http://www.ieway.cn/evcapture.html录屏：：http://www.kklxj.com/app/m/?from=groupmessage​​
+ EV录屏 http://www.ieway.cn/evcapture.html录屏：：http://www.kklxj.com/app/m/?from=groupmessage​​
 视频剪辑
  - 爱剪辑
  - 剪辑大师
@@ -131,50 +131,59 @@ EV录屏 http://www.ieway.cn/evcapture.html录屏：：http://www.kklxj.com/app/
  - 会声会影
   
  动画视频制作
- - 来画 http://www.laihua.com/
+ -  来画 http://www.laihua.com/
  - 万彩动画大师
 
 视频素材网
- - 做视频网：https://www.zuoshipin.com
- - VJ师：http://www.vjshi.com4K
- - 中国：http://www.4k123.com
- - 千图网：http://www.58pic.com
- - 爱给网：http://www.aigei.comPexels 
- - Videos：https://videos.pexels.com
- - Ignite Motion：http://www.ignitemotion.comStock Footage for Free：https://
+ -  做视频网：https://www.zuoshipin.com
+ -  VJ师：http://www.vjshi.com4K
+ -  中国：http://www.4k123.com
+ -  千图网：http://www.58pic.com
+ -  爱给网：http://www.aigei.comPexels 
+ -  Videos：https://videos.pexels.com
+ -  Ignite Motion：http://www.ignitemotion.com
+ -  Stock - Footage for Free：https://
 www.stockfootageforfree.com
- - Distill：http://www.wedistill.io
- - 新CG儿网：http://www.newcger.com
- - 视觉中国：http://www.vcg.com
- - 包图网：http://ibaotu.com/）
- - 摄图网：http://699pic.com/
- - 傲视网：http://www.aoao365.com/
- - 觅知网：http://www.51miz.com/
- - 觅知网：http://www.51miz.com/
- - 我图网：http://www.ooopic.com/CGMAMA：http://www.cgmama.com/
+ -  Distill：http://www.wedistill.io
+ -  新CG儿网：http://www.newcger.com
+ -  视觉中国：http://www.vcg.com
+ -  包图网：http://ibaotu.com/）
+ -  摄图网：http://699pic.com/
+ -  傲视网：http://www.aoao365.com/
+ -  觅知网：http://www.51miz.com/
+ -  觅知网：http://www.51miz.com/
+ -  我图网：http://www.ooopic.com/CGMAMA：http://www.cgmama.com/
   
 文件全能王
 
 短视频下载
-小视频下载：http://www.downfi.com/video/微博视频解析下载：http://weibo.iiilab.com/
+ 小视频下载：http://www.downfi.com/video/微博视频解析下载：http://weibo.iiilab.com/
 
 ---
 
 ##### 05 社群工具
 
-微活动：www.135editor.com
+ 微活动：www.135editor.com
 hi现场
- - 01-hi现场：http://www.hixianchang.com/
- - 02-开心大屏幕：http://www.kxdpm.com/03
- - 有娱现场：http://screen.weijuju.com/04-GO
- - 互动：http://www.gohudong.com05
- - 企微云：http://wbg.do1.com.cn/06
- - 跳跃互动：http://www.tioyo.com/07-
- - 一键互动：https://yjhd.newstartjx.com/08-
- - 凡科互动：http://hd.faisco.com/?_ta=2880
+ -  01-hi现场：http://www.hixianchang.com/
+ -  02-开心大屏幕：http://www.kxdpm.com/
+ -  有娱现场：http://screen.weijuju.com/
+ -  GO互动：http://www.gohudong.com
+ -  企微云：http://wbg.do1.com.cn/
+ -  跳跃互动：http://www.tioyo.com/
+ -  一键互动：https://yjhd.newstartjx.com/
+ -  凡科互动：http://hd.faisco.com/?_ta=2880
+ - 
 活动如何发布
-活动行：http://www.huodongxing.com/互动吧：http://www.hdb.com/beijing/活动数：http://www.huodongshu.com/报名吧：http://www.51bmb.com/活动家：http://www.41huiyi.com/百格活动：https://www.bagevent.com/活动酷：http://www.eventcoo.com/
-活动推广神器：http://www.huodongxing.com/
+ - 活动行：http://www.huodongxing.com/
+ - 互动吧：http://www.hdb.com/beijing
+ - 活动数：http/://www.huodongshu.com/
+ - 报名吧：http://www.51bmb.com/
+ - 活动家：http://www.41huiyi.com/
+ - 百格活动：https://www.bagevent.com/
+ - 活动酷：http://www.eventcoo.com/
+ - 活动推广神器：http://www.huodongxing.com/
+ - 
 增粉引流:
 千聊粉丝通：http://kaifang.qlchat.com/wechat/login.jsp
 进群宝
@@ -271,7 +280,7 @@ FORK
  - 有赞-营销插件：https://www.youzan.com/market​
  - 小鹅通-分销员：https://www.xiaoe-tech.com/
  - 生成带统计的网址：http://6du.in/
- - 
+ 
 收趣APP：收集你感兴趣的
 新媒体管家
 二维码工具
