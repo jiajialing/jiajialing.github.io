@@ -10,25 +10,30 @@ keywords: 工具大全,工具，运营工具
 #### 工具大全
 
 ##### 最好用的win和mac软件list
+
 -  win系统 https://love.appinn.com/
 
 -  mac系统 https://wangchujiang.com/awesome-mac/index.zh.html
-##### 聚合热点，聚合全网热点，应有尽有：https://tophub.today/c/news
+##### [聚合热点，聚合全网热点：](https://tophub.today/c/news)
 
-☛  百度指数（http://index.baidu.com/）
-☛  微指数（http://data.weibo.com/index）
-☛  微信搜索☛ 搜狗微信（http://weixin.sogou.com/）
-☛  新榜（http://www.newrank.cn/）
-☛  壹伴（https://yiban.io/hot_articles#sougou）
-☛  新媒体管家（https://article.xmt.cn/）
-☛  乐观号（http://mp.myleguan.com/）
+ - ☛  百度指数（http://index.baidu.com/）
+ - ☛  微指数（http://data.weibo.com/index）
+ - ☛  微信搜索☛ 搜狗微信（http://weixin.sogou.com/）
+ - ☛  新榜（http://www.newrank.cn/）
+ - ☛  壹伴（https://yiban.io/hot_articles#sougou）
+ - ☛  新媒体管家（https://article.xmt.cn/）
+ - ☛  乐观号（http://mp.myleguan.com/）
 
 ##### 01 文字工具
- gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
 
- 文字特效工具：megaemoji.com/cn
- 教程：http://mp.weixin.qq.com/s/GyQOvCh8F7JglRyBlsTwJA
- 免费可商用字体：http://mp.weixin.qq.com/s/XMOMH6g4UCFJf-xCei7B0w
+ - gif 工具-giftool 教程：http://mp.weixin.qq.com/s/0U4DxhEAzyJwqxG5_VyeAA
+
+  - 文字特效工具：megaemoji.com/cn
+  
+  - 教程：http://mp.weixin.qq.com/s/
+GyQOvCh8F7JglRyBlsTwJA
+
+  - 免费可商用字体：http://mp.weixin.qq.com/s/XMOMH6g4UCFJf-xCei7B0w
 
 文案库：http://mp.weixin.qq.com/s/rCAPkBfqZ2o0i6oB2h6AoA
  
@@ -50,8 +55,11 @@ keywords: 工具大全,工具，运营工具
 ##### 02 图片工具
 玩转gif
  录屏工具：录屏GifCam 下载Http://WwW.XP510.CoM
+
  好用的在线gif：http://www.soogif.com/
+
  美图秀秀：http://xiuxiu.web.meitu.com/
+
 插画
  -  01-涂鸦王国：http://www.poocg.com/
  -  02-EGOUZ：http://www.egouz.com/pics/vector/
@@ -76,7 +84,9 @@ keywords: 工具大全,工具，运营工具
 
 
  抠图 https://burner.bonanza.com/
+
 拼图
+
  - 暴走漫画
  - shape collage
  - 拼图工具：Tailor/拼接工坊
@@ -101,7 +111,9 @@ keywords: 工具大全,工具，运营工具
 
  压缩图片 http://www.tuhaokuai.com/
  一键生成logo www.logaster.cn
+
 制作海报
+
  -  “图怪兽”官网地址：https://818ps.com/
  -  创客贴官网地址：https://www.chuangkit.com/
  -  易图官网地址：http://www.egpic.cn/
@@ -110,9 +122,11 @@ keywords: 工具大全,工具，运营工具
 
 
 一直装逼一直爽：biu装逼神器
- 装逼大全：https://www.zhuangbi.info
- 一键下载微信图片 http://www.kklxj.com/app/m/?from=groupmessage
- 截图工具：https://www.snipaste.com/
+  - 装逼大全：https://www.zhuangbi.info
+
+  - 一键下载微信图片 http://www.kklxj.com/app/m/?from=groupmessage
+
+  - 截图工具：https://www.snipaste.com/
 
 ---
 
