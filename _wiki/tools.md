@@ -132,12 +132,18 @@ GyQOvCh8F7JglRyBlsTwJA
 
 ##### 03 音频工具
 一秒下载公众号音频 Fvd Downloader (360)浏览器插件
+
 一秒变声：应用市场搜：变声实验室
+
 一键音频导出文本：ios系统直接在App Store 搜索“录音机”
- 群分享处理和导出：https://www.jianshu.com/p/f676f76be1c0
+
+ [群分享处理和导出：https://www.jianshu.com/p/f676f76be1c0](https://www.jianshu.com/p/f676f76be1c0)
 ##### 04 视频工具
 录屏工具：
- EV录屏 http://www.ieway.cn/evcapture.html录屏：：http://www.kklxj.com/app/m/?from=groupmessage​​
+ - EV录屏 http://www.ieway.cn/evcapture.html
+ - 录屏：：http://www.kklxj.com/app/m/?from=groupmessage​​
+
+
 视频剪辑
  - 爱剪辑
  - 剪辑大师
@@ -222,42 +228,50 @@ wetool
 ---
 
 ##### 06 办公工具
-快速找到你的文件：everything
-处理你的PDF：smallPDF
-快速搜索：火柴
-思维导图
-mindmanager
-Xmind
-百度脑图
-freemind
-幕布
-亿图图示
-流程图
-https://www.processon.com/
-viso
-亿图图示专家
-团队协作
-石墨文档
-腾讯文档
-worktile
-teambition
-github
-tower 团队协作工具
-项目管理
-project
-redmine
+- 快速找到你的文件：everything
+- 处理你的PDF：smallPDF
+- 快速搜索：火柴
+- 思维导图
+- mindmanager
+- Xmind
+- 百度脑图
+- freemind
+- 幕布
+- 亿图图示
+- [流程图](https://www.processon.com/)
+  - viso
+  - 亿图图示专家
+- 团队协作
+  - 石墨文档
+  - 腾讯文档
+  - worktile
+  - teambition
+  - github
+  - tower 团队协作工具
+- 项目管理
+  - project
+  - redmine
+
+
 格式转换
+
 格式工厂
+
 迅捷PDF
-笔记类
-印象笔记
-有道云笔记
-wiz笔记
+
+- 笔记类
+
+  - 印象笔记
+  - 有道云笔记
+  - wiz笔记
+
+
 视频播放器：potplayer
 苹果越狱工具：爱思助手
-甘特图
-Xmind
-雁阵
+
+- 甘特图
+  - Xmind
+  - 雁阵
 
 ---
 
